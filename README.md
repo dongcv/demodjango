@@ -1,0 +1,2 @@
+# demodjango
+demo django
